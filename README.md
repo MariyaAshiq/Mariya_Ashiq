@@ -35,8 +35,10 @@ Currently seeking internship opportunities in Data Science / Data Analyst / Mach
 <h2>📂 Featured Projects</h2>
 
 
-<h3>🔹 Wool Quality Prediction</h3>
-<p>Combines clustering and supervised learning to predict wool quality on new samples.<br>
+<h3>🔹Wool Yield and Quality Prediction using Machine Learning </h3>
+
+End-to-end ML project to predict wool yield and quality using historical sheep and farm data.
+Includes data preprocessing, EDA, feature engineering, and model training for better production and quality decisions.<br>
 <b>Tech:</b> Python, KMeans, Random Forest</p>
 
 <h2>📈 What I’m Learning</h2>
@@ -49,7 +51,7 @@ Currently seeking internship opportunities in Data Science / Data Analyst / Mach
 
 <h2>📬 Connect With Me</h2>
 <ul>
-    <li>LinkedIn:linkedin.com/in/mariya-ashiq-39a873260</li>
+    <li>linkedin.com/in/mariya-ashiq-39a873260</li>
     <li>Email: ashiqmariya143@gmail.com</li>
 </ul>
 
